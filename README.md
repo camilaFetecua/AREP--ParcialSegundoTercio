@@ -4,25 +4,47 @@ Diseñe un prototipo de calculadora de microservicios que tenga un servicios de 
 
 ## Bitacora
 1. Se crea el proyecto usando Maven, se crea la clase principal.
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/1.PNG)
 2. Verificamos el funcionamiento de manera local 
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/2.1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/2.2.PNG)
+
 3. Conectamos la consola de AWS.
-    ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+    
+    ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/3.PNG)
 4. Creamos las instancias.
-   ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+   
+   ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/4.PNG)
    
 5. Instalamos Java en las instancias con el comando sudo yum install java-1.8.0-openjdk-devel
 6. Modificamos el grupo de seguridad
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/6.PNG)
 7. Comprimimos el archivo y lo subimos a cada instancia.
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
-08. Descompirmimos el archivo
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/7.PNG)
+
+8. Descompirmimos el archivo en cada una de las maquinas
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/8.1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/8.2.PNG)
+  
 09. Ejecutamos el proyecto en cada Instancia
-  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/9.1.PNG)
+  
+  ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/9.2.PNG)
+  
 10. Probamos el funcionamiento
-   ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+   
+   ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/10.1.PNG)
+   
+   ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/10.2.PNG)
+   
 
 ## Video
 
