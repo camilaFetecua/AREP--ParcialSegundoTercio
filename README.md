@@ -43,7 +43,7 @@ Diseñe un prototipo de calculadora de microservicios que tenga un servicios de 
    
    ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/10.1.PNG)
    
-   ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/10.2.PNG)
+   ![Imagen](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/Imagenes/10.3.PNG)
    
 
 ## Video
