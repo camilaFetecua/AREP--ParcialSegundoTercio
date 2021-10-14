@@ -4,12 +4,25 @@ Diseñe un prototipo de calculadora de microservicios que tenga un servicios de 
 
 ## Bitacora
 1. Se crea el proyecto usando Maven, se crea la clase principal.
-2. Verificamos el funcionamiento de manera local
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+2. Verificamos el funcionamiento de manera local 
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
 3. Conectamos la consola de AWS.
-4. Se monta la imagen en Docker
-5.Verificamos la creacion le las imagenes 
+    ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+4. Creamos las instancias.
+   ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+   
+5. Instalamos Java en las instancias con el comando sudo yum install java-1.8.0-openjdk-devel
 6. Modificamos el grupo de seguridad
-7. Probamos el funcionamiento
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+7. Comprimimos el archivo y lo subimos a cada instancia.
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+08. Descompirmimos el archivo
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+09. Ejecutamos el proyecto en cada Instancia
+  ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
+10. Probamos el funcionamiento
+   ![Imagen](https://github.com/camilaFetecua/Arep-AppSecure/blob/master/Imagenes/1.PNG)
 
 ## Video
 
