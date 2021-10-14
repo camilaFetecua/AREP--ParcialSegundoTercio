@@ -4,7 +4,7 @@ public class Calculadora {
     public double numero;
     public String operacion;
 
-    public Calculadora(double numero, String operacion) {
+    public Calculadora(String operacion,double numero ) {
         this.numero = numero;
         this.operacion = operacion;
     }

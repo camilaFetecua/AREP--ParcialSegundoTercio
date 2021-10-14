@@ -7,12 +7,12 @@ public class App
     {
         port(getPort());
         get("/in", (request, response) -> {
-            Calculadora calculadora =  new Calculadora(Double.parseDouble(request.queryParams("value")),"in");
+            Calculadora calculadora =  new Calculadora("in", Double.parseDouble(request.queryParams("value")));
             ConvertidorJSON convertir = new ConvertidorJSON();
             return convertir.stringToJSON("in",Double.parseDouble(request.queryParams("value")), calculadora.getRespuesta());
     });
         get("/Sqrt", (request, response) -> {
-            Calculadora calculadora =  new Calculadora(Double.parseDouble(request.queryParams("value")),"Sqrt");
+            Calculadora calculadora =  new Calculadora("Sqrt", Double.parseDouble(request.queryParams("value")));
             ConvertidorJSON convertir = new ConvertidorJSON();
             return convertir.stringToJSON("Sqrt",Double.parseDouble(request.queryParams("value")), calculadora.getRespuesta());
         });
