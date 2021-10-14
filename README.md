@@ -52,3 +52,5 @@ Diseñe un prototipo de calculadora de microservicios que tenga un servicios de 
 ## Autor
 Maria Camila Fetecua Garcia
 ## Licencia
+
+  Para consultar la Licencia del proyecto haga [click aqui](https://github.com/camilaFetecua/AREP--ParcialSegundoTercio/blob/master/LICENSE.md)
